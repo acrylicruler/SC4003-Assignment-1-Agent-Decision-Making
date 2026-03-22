@@ -3,15 +3,17 @@
 ## Project Overview
 This assignment solves a stochastic gridworld using **Value Iteration** and **Policy Iteration**, then extends the analysis to more complex mazes.
 
+<img width="558" height="581" alt="maze_environment" src="https://github.com/user-attachments/assets/68e179e2-7927-4d7f-998b-6cd3389a3a43" />
+
 ### Environment
 - Actions: Up, Down, Left, Right
-- Transition model: 0.8 intended, 0.1 each perpendicular direction
-- Rewards:
-  - white = -0.05
-  - green = +1
-  - brown = -1
+- Transition Model: 0.8 intended, 0.1 each perpendicular direction
+- Rewards for Each State:
+  - White = -0.05
+  - Green = +1
+  - Brown = -1
 - No terminal states
-- Discount factor: 0.99
+- Discount Factor: 0.99
 
 ## Part 1
 - Solve the given maze with:
