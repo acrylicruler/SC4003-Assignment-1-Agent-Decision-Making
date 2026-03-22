@@ -40,5 +40,4 @@ This assignment solves a stochastic gridworld using **Value Iteration** and **Po
 - `SC4003_Assignment1_Part2.ipynb` — Part 2 Maze Complexity Experiments
 - `SC4003_Assignment1_Report.pdf` — Report
 
-## Author
-Sally Ngui Yu Ying
+
